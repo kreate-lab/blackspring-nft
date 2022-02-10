@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Black Spring NFT Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project depolys a smart contract to mint NFTs. The NFTs can only be minted by the owner and use the hardcoded private server url. So it is not recommended to be used commercially. 
 
 Try running some of the following tasks:
 
@@ -10,6 +10,7 @@ npx hardhat compile
 npx hardhat clean
 npx hardhat test
 npx hardhat node
-node scripts/sample-script.js
+node scripts/run.js
+node scripts/deploy.js
 npx hardhat help
 ```
