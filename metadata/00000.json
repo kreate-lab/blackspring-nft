@@ -1,0 +1,12 @@
+{
+    "name": "Ko Na Pwar (a.k.a Ko Ko Oo)", 
+    "description": "On his way back home after a peaceful street protest, Ko Ko Oo was killed when pro-military thugs deliberately hit him with their car at night in Mandalay on 8 February 2021.", 
+    "image": "ar://4qfgAb3kl_2ydBd1jU485FGAIcUITPpDENM_Tn1dssg",
+    "attributes": [
+        {"trait_type": "Name in Burmese", "value": "နပွား (ခ) ကိုကိုဦး"},
+        {"trait_type": "Age", "value": "32"},
+        {"trait_type": "Date of Death", "value": "2021-Feb-08"},
+        {"trait_type": "Place of Death", "value": "Mandalay"},
+        {"trait_type": "Cause of Death", "value": "Hit and run"}
+        ]
+}
